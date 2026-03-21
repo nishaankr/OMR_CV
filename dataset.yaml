@@ -1,0 +1,8 @@
+path: .
+train: Train/images
+val: Valid/images
+test: Test/images
+
+nc: 2
+names: ['filled', 'empty']
+

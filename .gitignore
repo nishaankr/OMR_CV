@@ -1,0 +1,13 @@
+omr_env/
+dataset/
+Train/
+Valid/
+Test/
+runs/
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.cache
+.DS_Store
+EOF
