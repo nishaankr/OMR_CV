@@ -57,8 +57,8 @@ The system targets **Phần I** of Vietnamese MCQ exam sheets, which contains 40
 > Training completed in **1.485 hours** over 30 epochs on NVIDIA GeForce RTX 5060 Ti (8.5GB VRAM).
 
 <p align="center">
-  <img src="assets/BoxPR_curve.jpg" width="420" alt="Precision-Recall Curve"/>
-  <img src="assets/BoxF1_curve.jpg" width="420" alt="F1-Confidence Curve"/>
+  <img src="assets/BoxPR_curve.png" width="420" alt="Precision-Recall Curve"/>
+  <img src="assets/BoxF1_curve.png" width="420" alt="F1-Confidence Curve"/>
 </p>
 
 ---
