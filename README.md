@@ -1,5 +1,5 @@
 # 🗳️ OMR Answer Sheet Detection & Extraction
-### Automated Optical Mark Recognition using YOLOv8
+### Optical Mark Recognition using YOLOv8 - Grading/Answer Extraction
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
