@@ -5,12 +5,12 @@ import shutil
 Y_MIN = 0.35    # just below the first Phần I bubble row
 Y_MAX = 0.55    # just above where Phần II starts
 # ──────────────────────────────────────────────────────────────
-
-splits = ['Train', 'Valid', 'Test']
+BASE = "Datasets/YOLO_OMR_Dataset"
+splits = ['train', 'valid', 'test']
 
 for split in splits:
-    input_label_dir  = f"{split}/labels"
-    output_label_dir = f"{split}/labels_phan1"   # new filtered folder
+    input_label_dir  = f"{BASE}/{split}/labels"
+    output_label_dir = f"{BASE}/{split}/labels_phan1"  
 
     os.makedirs(output_label_dir, exist_ok=True)
 
@@ -28,13 +28,13 @@ for split in splits:
         with open(input_path, 'r') as f:
             lines = f.readlines()
 
-        # Keep only labels where center_y is inside Phần I range
+
         filtered = [
             line for line in lines
             if line.strip() and Y_MIN <= float(line.strip().split()[2]) <= Y_MAX
         ]
 
-        # Write filtered labels (even if empty — YOLO expects a file per image)
+
         with open(output_path, 'w') as f:
             f.writelines(filtered)
 

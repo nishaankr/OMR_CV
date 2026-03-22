@@ -1,4 +1,4 @@
-label_path = "Train/labels/IMG_1584_iter_0.txt"
+label_path = "H:\GitRepos\OMR_CV\Datasets\YOLO_OMR_Dataset/Train/labels/IMG_1584_iter_0.txt"
 
 with open(label_path, "r") as f:
     lines = f.readlines()
