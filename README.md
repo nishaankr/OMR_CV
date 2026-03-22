@@ -284,10 +284,10 @@ Left Blank      : 3
 
 ## Authors
 
-| Name | Student ID | GitHub |
-|------|-----------|--------|
-| Nishaank Singh Rawat | 2404107037 | [@nishaankr](https://github.com/nishaankr/) |
-| Shanya Rai | 2404107052 | [@shanya](#) <!-- Add Shanya's GitHub URL here --> |
+| Name | GitHub |
+|------|--------|
+| Nishaank Singh Rawat | [@nishaankr](https://github.com/nishaankr/) |
+| Shanya Rai | [@shanya]([#](https://github.com/shanyarai)) |
 
 ---
 
