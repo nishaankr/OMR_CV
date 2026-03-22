@@ -58,6 +58,7 @@ The system targets **Phần I** of Vietnamese MCQ exam sheets, which contains 40
 
 <p align="center">
   <img src="assets/BoxPR_curve.jpg" width="420" alt="Precision-Recall Curve"/>
+  ----
   <img src="assets/BoxF1_curve.jpg" width="420" alt="F1-Confidence Curve"/>
 </p>
 
