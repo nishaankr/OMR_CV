@@ -273,10 +273,10 @@ Left Blank      : 3
 
 ## Authors
 
-| Name | Student ID |
-|------|-----------|
-| Nishaank Singh Rawat | 2404107037 |
-| Shanya Rai | 2404107052 |
+| Name | 
+|------|
+| Nishaank Singh Rawat 
+| Shanya Rai 
 
 ---
 
