@@ -287,7 +287,7 @@ Left Blank      : 3
 | Name | GitHub |
 |------|--------|
 | Nishaank Singh Rawat | [@nishaankr](https://github.com/nishaankr/) |
-| Shanya Rai | [@shanya]([#](https://github.com/shanyarai)) |
+| Shanya Rai | [@shanya](https://github.com/shanyarai) |
 
 ---
 
